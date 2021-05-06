@@ -7,5 +7,5 @@ Concepts used:<br />
 * Affinity Analysis
 
 ## Demonstration
-This a demo of the current capabilities of the program. <br /> 
+This is a demo of the current capabilities of the program. <br /> 
 ![](ezgif.com-gif-maker.gif) 
